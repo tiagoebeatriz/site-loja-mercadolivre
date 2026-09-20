@@ -5,6 +5,7 @@ h1, p {
   background-color: pink;
 }
 #video {
-  border: 2px solid black;
-  width: 1000px;
+  border: 10px solid black;
+  width: 600px;
+  height: 350px;
 }

@@ -4,6 +4,6 @@ h1, h2, p {
 #titulo {
   background-color: pink;
 }
-#video {
-  background-border-color: black;
+.section {
+  border: 2px solid black
 }

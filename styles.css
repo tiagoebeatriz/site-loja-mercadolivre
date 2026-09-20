@@ -1,5 +1,6 @@
 .titulo {
   text-align: center;
+  text-border: 2px solid black;
 }
 .titulo {
   background-color: white;
@@ -9,7 +10,7 @@
     }
 button {
   background-color: white;
-  width: 30%;
+  width: 10%;
   margin-left: auto;
   margin-right: auto;
 }

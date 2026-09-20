@@ -3,9 +3,11 @@ h1, p {
   }
 #titulo {
   background-color: pink;
+  height: 500px;
 }
 #video {
   border: 5px solid black;
   width: 700px;
-  height: 250px;
+  height: 330px;
+  align: center;
 }

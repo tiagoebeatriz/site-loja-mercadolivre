@@ -8,6 +8,9 @@
   margin-right: auto;
     }
 button {
+  text-align: center;
+}
+button {
   background-color: white;
   width: 70%;
   margin-left: auto;

@@ -3,4 +3,5 @@ h1, h2, p {
   }
 #titulo {
   background-color: green;
+  width: 50px
 }

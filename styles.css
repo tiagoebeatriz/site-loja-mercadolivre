@@ -4,7 +4,7 @@ h1, p {
 #titulo {
   background-color: pink;
 }
-.video {
+#video, .h2, p {
   border: 2px solid black;
-  width: 1000px
+  width: 1000px;
 }

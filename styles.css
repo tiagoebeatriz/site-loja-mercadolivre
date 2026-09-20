@@ -3,8 +3,9 @@ h1, h2 {
 }
 #titulo {
   background-color: yellow;
-  width: 600px;
-  height: 200px;}
+  width: 300px;
+  height: 200px;
+}
 #video {
   border: 2px solid black;
   width: 1000px;
